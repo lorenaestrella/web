@@ -1,0 +1,39 @@
+*{margin:0px;
+padding: 0px;}
+
+#title{
+color:black;
+font-family:'Trebuchet MS';
+font-weight:lighter;
+font-size: 50px;
+align-items: center;
+
+}
+
+/*proyectos*/
+#nab1{
+    font-family: 'Trebuchet MS';
+    width: 250px;
+    padding: 20px;
+    margin: 0px;
+    background-color:lightyellow; 
+    }
+    
+    .menu1 {
+        list-style: none;
+    }
+    
+    .menu1 a{
+        text-decoration: none;
+        background-color: lightyellow;
+        color:black;
+        padding: 15px;
+        display:block;
+        align-items: center;
+    }
+    
+    .menu1 a:hover{
+        width: 100%;
+        background-color:rgb(183, 152, 255);
+        color: black;
+    }
